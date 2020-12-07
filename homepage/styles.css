@@ -1,0 +1,45 @@
+body {
+
+    color: white;
+}
+.DarkRed
+{
+    background-color: DarkRed;
+}
+.brown
+{
+    background-color: saddlebrown;
+}
+.gold
+{
+    background-color: gold;
+}
+.black
+{
+    background-color: black;
+}
+.center
+{
+    text-align: center;
+}
+.red
+{
+    color: red;
+}
+.green
+{
+    color: green;
+}
+.large
+{
+    font-size: large:
+}
+.bolder
+{
+    font-weight: bolder;
+}
+.width
+{
+    width: 100%;
+
+}
